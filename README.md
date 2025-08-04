@@ -1,6 +1,6 @@
-# 🌐 Suraz Portfolio
+# 🌐 React responsive side nav
 
-A **fully scalable and modern developer portfolio** built using the latest tools in the frontend ecosystem:
+A **fully Responsive React side Nav boilerPlate** built using the latest tools in the frontend ecosystem:
 
 - ⚛️ **React 19**
 - ⛑️ **TypeScript**
